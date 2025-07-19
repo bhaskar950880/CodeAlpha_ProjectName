@@ -2,6 +2,9 @@ from tkinter import *
 from PIL import Image, ImageTk
 import random
 
+
+
+
 # Rule-based replies
 def get_bot_response(user_input):
     user_input = user_input.lower()
